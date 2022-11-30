@@ -1,8 +1,2 @@
-"adf" 
-'bbb' 
-ddd 
-'ccc' 
-aaaaa 
-today 
-main 
-aaaa 
+a 
+aa 
